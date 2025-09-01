@@ -4,4 +4,4 @@ metadata:
   name: simple-index
 data:
   index.html: |
-    Ini tampilan dari NGINX
+    Ini tampilan dari NGINX dan nama saya Rizki
